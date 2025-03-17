@@ -1,0 +1,19 @@
+.title{
+    margin: 20px;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    
+}
+
+.btn{
+    justify-content: center;
+}
+@media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column;
+    }
+  }
